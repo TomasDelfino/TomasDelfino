@@ -1,13 +1,27 @@
-## 👋 Hola, soy Tomás
+# Hi, I'm Tomás Delfino
 
-Soy Programador Junior y Técnico en Computación.
-Desarrollo proyectos web full stack y frontend.
+Junior Game QA Tester | Software Developer | IT Technician
 
-🔹 Tecnologías:
+I'm currently building my Game QA portfolio through structured bug reports, exploratory testing and test case design while continuing to develop software projects.
+
+## Areas of Interest
+
+- Game Quality Assurance
+- Software Testing
+- Bug Reporting
+- Web Development
+- IT Support
+
+## Technologies
+
 - Java
 - JavaScript
 - React
 - Node.js
 - MongoDB
+- Git
 
-Actualmente me encuentro en búsqueda de mi primer empleo formal en IT.
+## Current Projects
+
+- Game QA Portfolio
+- The Game Delfino
