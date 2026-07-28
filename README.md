@@ -23,5 +23,9 @@ I'm currently building my Game QA portfolio through structured bug reports, expl
 
 ## Current Projects
 
+## Current Projects
+
 - Game QA Portfolio
 - The Game Delfino
+- Kiosco Net Ecommerce
+- Technolokia Website
